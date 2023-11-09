@@ -45,7 +45,7 @@ npm start
 
 ![Alt text](image-1.png)
 
-
+<a href="https://yashgv.github.io/DisneyHotstar-Clone/">Watch Preview</a>
 
 # Getting Started with Create React App
 
